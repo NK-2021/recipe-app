@@ -1,3 +1,9 @@
+# Recipe Search Application : Created Using React & Material UI
+
+The project is in Progress, free API has been integrated, to fetch data.
+
+<img width="1321" alt="Screenshot 2021-06-27 at 8 24 46 PM" src="https://user-images.githubusercontent.com/85902045/123549267-d50db680-d785-11eb-9b49-049f4026dc46.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
